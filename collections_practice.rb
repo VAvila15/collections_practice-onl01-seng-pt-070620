@@ -13,4 +13,5 @@ end
 def swap_elements(array)
   array.sort do |b, c|
     b <=> c
+  end
 end
