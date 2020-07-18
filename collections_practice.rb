@@ -19,11 +19,5 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
-  i = 3
-  while i == 3
-    yield(array[i])
-   3 = $
-  end
-  array
 end
   
