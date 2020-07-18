@@ -22,7 +22,7 @@ def kesha_maker(array)
   i = 3
   while i == 3
     yield(array[i])
-    i=i+$
+    i=i+1
   end
   array
 end
