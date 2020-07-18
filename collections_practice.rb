@@ -20,5 +20,6 @@ end
 
 def kesha_maker(array)
   i = 3
-  while i = 3
+  while i == 3
+  yield
   
