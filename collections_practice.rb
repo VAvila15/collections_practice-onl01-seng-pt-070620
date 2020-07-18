@@ -3,5 +3,5 @@ def sort_array_asc (array)
 end
 
 def sort_array_desc (array)
-  array.sort_by { |i| i[:bar] }.reverse
+  array.sort_by { |h| h[:bar] }.reverse
 end
