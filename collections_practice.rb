@@ -24,5 +24,6 @@ def kesha_maker(array)
     yield(array[i])
     i=$
   end
+  array
 end
   
